@@ -1,0 +1,83 @@
+/* nav */
+
+.nav{
+    position: absolute;
+    width: 253px;
+    height: 100vh;
+    left: -7px;
+    top: -1px;
+    background: #B5E6DD;
+}
+
+.wallet-alt{
+    /* Wallet_alt */
+
+    position: absolute;
+    width: 47.58px;
+    height: 50px;
+    left: 13px;
+    top: 15px;
+
+
+
+    /* Rectangle 25 */
+
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 16.67%;
+    bottom: 16.67%;
+
+    /* line_icon */
+    border: 2px solid #33363F;
+    border-radius: 3px;
+
+
+    /* Vector 70 */
+
+    position: absolute;
+    left: 29.17%;
+    right: 58.33%;
+    top: 33.33%;
+    bottom: 66.67%;
+
+    /* line_icon */
+    border: 2px solid #33363F;
+    border-radius: 2px;
+
+
+    /* Vector 57 */
+
+    position: absolute;
+    left: 87.5%;
+    right: -12.5%;
+    top: 66.67%;
+    bottom: 16.67%;
+
+    /* line_icon */
+    border: 2px solid #33363F;
+    border-radius: 1px;
+    transform: rotate(-180deg);
+
+}
+
+.nav .money-tracker-word{
+    /* MoneyTracker */
+
+    position: absolute;
+    width: 173.53px;
+    height: 37.08px;
+    left: 45px;
+    top: 28px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #000000;
+
+
+}

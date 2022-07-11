@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/.D/Soft/ghc-7.6.1/fork/main.c
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+

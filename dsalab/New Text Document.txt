@@ -1,0 +1,7 @@
+int Dijkstra(int** graph, int src, int dst) {
+
+    
+    int size = *(&(*graph) + 1) - *graph;
+
+    
+}

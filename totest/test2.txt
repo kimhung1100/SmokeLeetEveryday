@@ -1,0 +1,4 @@
+LINEAR 4 5
+INSERT sum 2
+CALL sum(11,12)
+ASSIGN y sum(11,12)
