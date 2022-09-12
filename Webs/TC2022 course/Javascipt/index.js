@@ -1,0 +1,1 @@
+var myname=prompt("What is your name?");
